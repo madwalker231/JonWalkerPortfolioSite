@@ -330,6 +330,13 @@ h1 {
     height: 500px;
 }
 
+.d-and-d-img {
+    padding-left: 33%;
+    padding-top: 50px;
+    width: 700px;
+    height: 500px;
+}
+
 /* Media Queries */
 
 @media (max-width: 768px) {
