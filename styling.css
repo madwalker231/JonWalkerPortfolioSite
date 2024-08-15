@@ -322,6 +322,14 @@ h1 {
     font-weight: bold;
 }
 
+.kn-img {
+    display: inline-block;
+    padding-left: 24%;
+    padding-top: 50px;
+    width: auto;
+    height: 500px;
+}
+
 /* Media Queries */
 
 @media (max-width: 768px) {
